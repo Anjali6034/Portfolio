@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://github.com/Anjali6034
+> anjali-portfolio-analyst.netlify.app
 
 ### Website Preview
 <p align="center"> 
